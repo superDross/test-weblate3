@@ -1,0 +1,50 @@
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:112
+msgid "Unable to find user: @users"
+msgid_plural "Unable to find users: @users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of two user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of three user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of four user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of five user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of six user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of seven user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of eight user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of nine user names."
+msgstr ""
+
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of ten user names."
+msgstr ""
+
+#: modules/user/views_handler_filter_user_name.inc:29
+msgid "Enter a comma separated list of eleven user names."
+msgstr ""
